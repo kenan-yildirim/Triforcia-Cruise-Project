@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>LightningBolt</label>
+    <navType>Standard</navType>
+    <tabs>standard-LightningBoltHome</tabs>
+    <tabs>Expense__c</tabs>
+    <tabs>Income__c</tabs>
+    <tabs>Emergency_Location__c</tabs>
+    <tabs>Helicopter__c</tabs>
+    <tabs>Hospital__c</tabs>
+    <tabs>Historic_Data_c__x</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>

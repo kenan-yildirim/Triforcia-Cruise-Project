@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalDataSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customConfiguration>{&quot;environment&quot;:&quot;PROD&quot;,&quot;apiVersion&quot;:&quot;53.0&quot;,&quot;timeout&quot;:&quot;120&quot;,&quot;searchEnabled&quot;:&quot;true&quot;}</customConfiguration>
+    <endpoint>https://login.salesforce.com</endpoint>
+    <isWritable>false</isWritable>
+    <label>Target</label>
+    <principalType>NamedUser</principalType>
+    <protocol>Password</protocol>
+    <type>SfdcOrg</type>
+    <username>kenan9492@empathetic-panda-m7r5wx.com</username>
+</ExternalDataSource>
